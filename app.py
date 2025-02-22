@@ -11,7 +11,7 @@ st.set_page_config(layout='wide')
 
 #-----Import Dataframe-----#
 
-df=pd.read_csv(r"C:\Users\Dell\Documents\Bethel Tech\Streamlit Final Project Folder\Walmart_Sales.csv")
+df=pd.read_csv(r"Walmart_Sales.csv")
 
 #-----Wrangle and structure data for analysis-----#
 # I want to see total/average sales per store
